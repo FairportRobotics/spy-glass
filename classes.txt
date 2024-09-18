@@ -1,0 +1,3 @@
+red_robot
+blue_robot
+game_piece
