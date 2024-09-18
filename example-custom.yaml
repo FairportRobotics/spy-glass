@@ -1,6 +1,0 @@
-# The following need to be absolute paths to the image files.
-# It assumes that the repository was cloned to the user's home.
-train: C:\Users\mike\spy-glass\data\train
-val: C:\Users\mike\spy-glass\data\val
-nc: 3
-names: ["red_robot", "blue_robot", "game_piece"]
