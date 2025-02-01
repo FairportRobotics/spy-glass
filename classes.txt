@@ -1,3 +1,8 @@
 red_robot
 blue_robot
 game_piece
+algae
+coral
+l4_reef
+l3_reef
+l2_reef
