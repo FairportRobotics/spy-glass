@@ -3,6 +3,7 @@ import shutil
 
 base_dir = os.getcwd()
 image_dir =  f"{base_dir}/images/processed".replace("\\", "/")
+#image_dir =  f"{base_dir}/images/ai_labels".replace("\\", "/")
 class_file = f"{image_dir}/classes.txt"
 
 shutil.copy(f"{base_dir}/classes.txt", class_file)
